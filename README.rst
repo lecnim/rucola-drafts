@@ -2,6 +2,9 @@
 rucola-drafts
 =============
 
+.. image:: https://travis-ci.org/lecnim/rucola-drafts.svg
+    :target: https://travis-ci.org/lecnim/rucola-drafts
+
 A Rucola plugin used to ignore draft pages.
 
 Installation
